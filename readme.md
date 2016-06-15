@@ -8,4 +8,10 @@
 
 3- Si se desea usar el servidor de desarrollo que incluye laravel, ejecutar "php artisan serve"
 
-4- Accceder a http://localhost:8000
+La aplicación incluye tres rutas configuradas.
+
+/  			=> Que muestra la interfaz gráfica de la sección 2.
+
+/suma 		=> Que muestra el resultado de la operación de suma de cubos.
+
+/preguntas 	=> Que muestra las distintas preguntas formuladas y sus respuestas.
