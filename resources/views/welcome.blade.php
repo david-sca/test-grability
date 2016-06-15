@@ -29,27 +29,27 @@
                 </div>
             </div>
             <div class="col-xs-11 text-center">
-                <h3 id="bar-title"></h3>
+                <h3 class="hidden-xs" id="bar-title"></h3>
             </div>
         </div>
         <div class="container" id="news-section">
             
             <div class="col-xs-12 news-header">
                 <div class="container">
-                    <div class="col-xs-2 text-center">
+                    <div class="col-xs-12 col-sm-2 text-center">
                         <img class="rounded-image" src="http://placehold.it/100x100" alt="">
                     </div>
-                    <div class="col-xs-10">
+                    <div class="col-xs-12 col-sm-10">
                         <h4 class="articleTitle"></h4>
                     </div>
                 </div>    
             </div>
             <div class="col-xs-12 news-content">
                 <div class="container">
-                    <div class="col-xs-4">
-                        <img class="articleImage" src="http://placehold.it/300x300" alt="">
+                    <div class="col-xs-12 col-sm-4 text-center">
+                        <img class="articleImage img-responsive" src="http://placehold.it/300x300" alt="">
                     </div>
-                    <div class="col-xs-7">
+                    <div class="col-xs-12 col-sm-7 col-md-7">
                         <h3 class="articleTitle"></h3>
                         <br>
                         <p class="articleContent"></p>        
